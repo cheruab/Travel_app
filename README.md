@@ -1,1 +1,1 @@
-Travel Advisor Reasct app
+Travel Advisor React app
